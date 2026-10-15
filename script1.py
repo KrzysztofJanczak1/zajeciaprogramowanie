@@ -1,2 +1,2 @@
 print('Hello world')
-print('sss')
+print('sss tego nie bylo')
